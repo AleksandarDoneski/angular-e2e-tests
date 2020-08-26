@@ -20,7 +20,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
 
-    - uses: actions/angular-github-actions
+    - uses: mayurrawte/github-angular-actions
     - uses: actions/checkout@v2
 
     # Runs a single command using the runners shell
